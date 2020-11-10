@@ -2,4 +2,7 @@
 Final Year CS&amp;AI BSc Project
 
 
-\section{hello}
+### Introduction:
+The fabrication and subsequent spread of false information with intent to deceive is a tactic used by many, from authoritarian regimes and intelligence services to political parties and commercial organizations. This tactic is now more commonly referred to as "Disinformation", a loan translation from the Russian "dezinfromatsiya" which refers to the old KGB "black propaganda" department. The definition this report takes for disinformation - as given by Wardle and Derakhshan - is "information that is false and deliberately created to harm a person, social group, organization or country". A key distinction between disinformation and the often associated misinformation is that whilst both involve the spread of inaccurate or false information, disinformation carries with it mal-intent.
+
+In an increasingly IT-centric society, especially in regards to social medias platforms, exposure to disinformation can be unavoidable. Recent large scale analyses have shown on such platforms that false information can faster diffuse through the social media network than the truth. Twitter is one such social networking website vulnerable to disinformation, due to the casual formatting of the messages, or "tweets", and its key mechanism of "retweeting", which creates a loose structure in the relationship between nodes in Twitter's network. This project aims to track these connections within Twitter in an attempt to accurately map sources of disinformation on that platform and investigate their origins where possible. 
